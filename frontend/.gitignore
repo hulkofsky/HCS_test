@@ -1,0 +1,6 @@
+# IGNORE FOLDERS
+.idea
+node_modules
+build
+
+# IGNORE FILES

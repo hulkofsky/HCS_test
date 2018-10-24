@@ -1,0 +1,7 @@
+.header {
+  min-width: 640px;
+}
+
+.title {
+  flex-grow: 1;
+}

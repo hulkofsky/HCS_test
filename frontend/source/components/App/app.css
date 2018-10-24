@@ -1,0 +1,34 @@
+html {
+  box-sizing: border-box;
+  font-family: Roboto, sans-serif;
+}
+
+*, ::before, ::after {
+  box-sizing: inherit
+}
+
+body {
+  margin: 0;
+  background-color: #f2f2f2;
+}
+
+fieldset {
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+  border: none;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  clip: rect(1px, 1px, 1px, 1px);
+  padding:0 !important;
+  border:0 !important;
+  height: 1px !important;
+  width: 1px !important;
+  overflow: hidden;
+}
+
+li {
+  list-style-type: none;
+}
